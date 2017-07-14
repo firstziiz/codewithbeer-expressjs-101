@@ -1,0 +1,19 @@
+{
+  "name": "codewithbeer-expressjs-101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/firstziiz/codewithbeer-expressjs-101.git",
+  "author": "Kanisorn S. <firstziiz.k@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "jest": "^20.0.4",
+    "method-override": "^2.3.9",
+    "mongoose": "^4.11.2",
+    "morgan": "^1.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
