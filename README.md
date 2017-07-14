@@ -21,20 +21,31 @@ live on 14 JUL 17 🍺
     - Postman
 - Basic JS
     - Let / Const
-    - ES2015 Module
+    - Module
+        - require('..'), module.exports
     - de-Structuring
-    - Spread Operator
     - Arrow Function
     - Template String
-    - .map, .find, .reduce
+    - .map, .find, .reduce, .filter
 - ExpressJS
     - Web server with Nodejs
     - Router
+        - URI
+        - Request
+            - req.params
+            - req.query
+        - Response
+            - res.send
+            - res.json
     - Params
+        - req.params
     - Middleware
 - Mongodb
     - Use mongodb with mongoose
-    - Type
+    - Schema
     - Create Todo schema
-    - create, find, update, delete
+    - create, find
 - What’s next ~
+    - PassportJS
+    - Jest
+    - watch the code in `ASK`
