@@ -1,14 +1,18 @@
 # [CODE-WITH-BEER] ExpressJS 101
 live on 14 JUL 17 🍺
 
-Preparing
+---
+
+## Preparing
 * NodeJS - [https://nodejs.org/en/](https://nodejs.org/en/)
 * Mongodb - [https://www.mongodb.com/](https://www.mongodb.com/)
 * Yarn - [https://yarnpkg.com/en/](https://yarnpkg.com/en/)
 * VSCode - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 * Postman - [https://www.getpostman.com/](https://www.getpostman.com/)
 
-Course Outline
+---
+
+## Course Outline
 - Prepare
     - NodeJS
     - Yarn
